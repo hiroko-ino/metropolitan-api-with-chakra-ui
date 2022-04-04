@@ -1,4 +1,4 @@
-export const getRandom = (arr: number[], total: number) => {
-  const randomNumber = Math.floor(Math.random() * total);
+export const getRandom = (arr: number[]) => {
+  const randomNumber = Math.floor(Math.random() * arr.length);
   return arr[randomNumber];
 }
