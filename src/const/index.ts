@@ -1,5 +1,5 @@
 export const INDEX_DATA = {
-  SITENAME: 'Tokyo Museum Collection APIを試す',
+  SITENAME: 'Tokyo Museum Collection APIとChakra UIを試す',
   BUTTON: 'ランダムに一つ取得する'
 }
 

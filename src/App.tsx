@@ -132,10 +132,10 @@ export const App = () => {
             )}
             {result.map((item) => {
               return (
-                <>
+                <Box key={item.title}>
                   {item.primaryImage && (
                     <Flex justify="center" pb={8}>
-                      <Image src={item.primaryImageSmall} width="30%" />
+                      <Image src={item.primaryImageSmall} width="280" />
                     </Flex>
                   )}
                   <Code p={2} width="100%" lineHeight={1.8}>
@@ -152,7 +152,7 @@ export const App = () => {
                     {LABELS.DIMENTIONS}: {item.dimensions} <br />
                     {LABELS.CITY}: {item.city} <br />
                   </Code>
-                </>
+                </Box>
               ) 
             })}
         </Box>
