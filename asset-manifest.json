@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/metropolitan-api-with-chakra-ui/static/js/main.8f21a719.js",
+    "main.js": "/metropolitan-api-with-chakra-ui/static/js/main.75ad307a.js",
     "static/js/377.e59fd18e.chunk.js": "/metropolitan-api-with-chakra-ui/static/js/377.e59fd18e.chunk.js",
     "index.html": "/metropolitan-api-with-chakra-ui/index.html",
-    "main.8f21a719.js.map": "/metropolitan-api-with-chakra-ui/static/js/main.8f21a719.js.map",
+    "main.75ad307a.js.map": "/metropolitan-api-with-chakra-ui/static/js/main.75ad307a.js.map",
     "377.e59fd18e.chunk.js.map": "/metropolitan-api-with-chakra-ui/static/js/377.e59fd18e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8f21a719.js"
+    "static/js/main.75ad307a.js"
   ]
 }
